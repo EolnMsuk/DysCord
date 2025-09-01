@@ -2,7 +2,7 @@
 
 This is a powerful, fully modular Discord bot designed to automate voice channel moderation and provide deep server insights. It enforces camera usage in designated voice channels through escalating punishments and offers detailed analytics, all managed through a clean, interactive button menu. Built on a fully asynchronous architecture with persistent data storage, it ensures robust and reliable server management.
 
-[Key Features](https://github.com/EolnMsuk/DysCord#-key-features) | [Command List](https://github.com/EolnMsuk/DysCord#-command-list) | [How to Setup](https://github.com/EolnMsuk/DysCord/tree/main#%EF%B8%8F-setup--configuration)
+[Key Features](https://github.com/EolnMsuk/DysCord#-key-features) | [Command List](https://github.com/EolnMsuk/DysCord#-command-list) | [How to Setup](https://github.com/EolnMsuk/DysCord#%EF%B8%8F-setup--configuration)
 
 -----
 
