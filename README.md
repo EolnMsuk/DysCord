@@ -12,7 +12,7 @@ This is a powerful, fully modular Discord bot designed to automate voice channel
 
   * **Camera Enforcement**: Automatically mutes/deafens users who join moderated voice channels without their camera on.
   * **Escalating Punishments**: Applies a sequence of punishments for users who repeatedly fail to enable their camera within a configurable time limit: first, a move to a "punishment" VC; then a short timeout; and finally, a longer timeout for subsequent violations.
-  * **Admin Immunity**: Bot owners and users with configured admin roles are immune to automated moderation actions.
+  * **Admin Immunity**: Bot owners are immune to automated moderation actions.
 
 ### 📊 Persistent State & Analytics
 
